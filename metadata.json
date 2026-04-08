@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Pro Vision Image Generator",
+  "description": "Generate high-quality images using the gemini-3-pro-image-preview model. Supports text prompts, reference images, and 1K, 2K, 4K resolutions.",
+  "requestFramePermissions": []
+}
